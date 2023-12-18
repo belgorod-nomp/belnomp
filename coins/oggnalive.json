@@ -1,1 +1,8 @@
-
+{
+    "name": "Oggnalive",
+    "symbol": "OGG",
+    "algorithm": "sha256",
+    "peerMagic": "b2d8c6f4",
+    "peerMagicTestnet": "65d63480",
+    "blockTime": 30
+}
